@@ -1,8 +1,8 @@
 # Procedural Content Generation using Wave Function Collapse
 
-This project was developed as a part of my Computing Science final-year dissertation at the University of Malta. mIt explores how the Wave Function Collapse algorithm (WFC) can be used to generate levels in a videogame (dungeons) that are fully playable and connected.
+This project was developed as part of my Computing Science final-year dissertation at the University of Malta. It explores how the Wave Function Collapse algorithm (WFC) can be used to generate connected playable dungeon layouts for a video game.
 
-WFC is a rule-based procedural generation algorithm, meaning the main problem for this project was defining rules that would result in many connected rooms that would in turn form a dungeon.
+WFC is a constraint-based procedural generation algorithm meaning the main problem for this project was defining rules that would result in many connected rooms that would in turn form a dungeon.
 More on this topic in my Dissertation.
 
 The game prototype itself was is a 2D dungeon crawler that makes it possible to walk through generated rooms, pick up items, encounter enemies, inspect the minimap and influence how the rooms are generated.
